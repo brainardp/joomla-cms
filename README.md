@@ -95,6 +95,4 @@ Copyright
 * Distributed under the GNU General Public License version 2 or later
 * See [License details](https://docs.joomla.org/Joomla_Licenses)
 
-Addemdum
----------------------
-* Practice GitHub Commits etc
+
